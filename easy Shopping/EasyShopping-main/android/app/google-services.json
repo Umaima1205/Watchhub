@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680074497371",
+    "project_id": "watchhub-f30a9",
+    "storage_bucket": "watchhub-f30a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680074497371:android:4bb1999d378b876c78de7e",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680074497371-6si6raqjp6drrridtg9qgsstoesmjgth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2N7EVNW9QAk_EVw9WA-L9dWDvSi0UvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680074497371-6si6raqjp6drrridtg9qgsstoesmjgth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
